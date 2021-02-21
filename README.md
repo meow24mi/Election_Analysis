@@ -31,9 +31,9 @@ A Colorado Borad of Election employee has given me the following tasks to comple
  -The largest county turnout:
   -Denver County
  -The candidates were:
-  -Charles Casper Stockham: 23.0% (85,213)
-  -Diana DeGette: 73.8% (272,892)
-  -Raymon Anthony Doane: 3.1% (11,606)
+  -Charles Casper Stockham
+  -Diana DeGette
+  -Raymon Anthony Doane
  -The candidate results were:
   -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   -Diana DeGette received 73.8% of the vote and 272,892 number of votes.
